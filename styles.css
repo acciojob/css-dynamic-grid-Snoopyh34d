@@ -4,12 +4,14 @@
 
 
 .grid-item{
+  font-size: 40px;
   width: 200px;
   height: 150px;
   background-color: lightgray;
   display: flex;
   justify-content: center;
   align-items: center;
+	border-radius:5px;
 }
 
 .grid-container{
